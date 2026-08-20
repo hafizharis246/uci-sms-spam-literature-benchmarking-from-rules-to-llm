@@ -23,7 +23,7 @@ The repository is organized into two primary root folders:
 ## ⚙️ Evolutionary Model Paradigms
 
 ### 1. Rule-Based Systems
-Initial approaches evaluated explicit rules, structural heuristics (URL presence, capital letter counts, phone number regex), and Binary Particle Swarm Optimization (BPSO)-driven fuzzy rule generation. Although fast, these models lacked robustness against simple text obfuscation.
+Initial approaches evaluated explicit rules, structural heuristics (URL presence, capital letter counts, phone number regex), and fuzzy rule generation. Although fast, these models lacked robustness against simple text obfuscation.
 
 ### 2. Traditional Machine Learning
 Statistical models utilize word frequency matrices ($n$-grams, TF-IDF). Baseline benchmarks established by Almeida et al. showed that Linear Support Vector Machines (SVM) outperformed standard algorithms like Naïve Bayes and Decision Trees.
