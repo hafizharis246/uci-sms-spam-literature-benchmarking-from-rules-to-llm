@@ -15,7 +15,7 @@ This repository hosts both the academic literature and practical code implementa
 5. **Large Language Models (LLMs)**: Zero-shot, few-shot, and fine-tuned open-source and commercial LLMs (e.g., Mixtral 8x7B, LLaMA-2/3, Mistral, GPT-4).
 
 The repository is organized into two primary root folders:
-* **`Research Papers related to uci-sms-spams-data`**: Contains the foundational and modern research papers centered around the UCI SMS dataset and spam filtering methodologies[cite: 14, 15, 17].
+* **`Research Papers related to uci-sms-spams-data`**: Contains the foundational and modern research papers centered around the UCI SMS dataset and spam filtering methodologies.
 * **`Codes`**: Contains scripts, data preprocessing pipelines, notebook benchmarks, and execution setups for each of the five model paradigms.
 
 ---
